@@ -28,12 +28,6 @@ function increment(n) {
 }
 console.log(increment(9));
 
-// function to increment
-function increment(n) {
-    return ++n;
-}
-console.log(increment(9));
-
 // function to decrement
 function decrement(n) {
     return --n;
